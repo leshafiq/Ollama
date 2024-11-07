@@ -1,8 +1,10 @@
 # Ollama
 To run Ollama locally
 
-1. First install Ollama in your terminal. After installation is completed, to check whether Ollama is running, run localhost:11434 in your browser
+1. First install Ollama in your terminal.
 "curl -fsSL https://ollama.com/install.sh | sh"
+
+After installation is completed, to check whether Ollama is running, run localhost:11434 in your browser
 
 2. Then choose your model from Ollama website
 example : "ollama pull llama3.2"
